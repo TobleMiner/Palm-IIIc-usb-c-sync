@@ -1,0 +1,5 @@
+(fp_lib_table
+  (lib (name "Connector_SOFNG")(type "KiCad")(uri "${KIPRJMOD}/lib/Connector_SOFNG.pretty")(options "")(descr ""))
+  (lib (name "Spring_Contacts_AliExpress")(type "KiCad")(uri "${KIPRJMOD}/lib/Spring_Contacts_AliExpress.pretty")(options "")(descr ""))
+  (lib (name "Package_DFN_QFN_SiLabs")(type "KiCad")(uri "${KIPRJMOD}/lib/Package_DFN_QFN_SiLabs.pretty")(options "")(descr ""))
+)
